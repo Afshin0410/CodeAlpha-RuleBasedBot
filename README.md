@@ -1,2 +1,2 @@
 # CodeAlpha-RuleBasedBot
-A simple rule based bot built in Python
+An improved rule-based chatbot with keyword matching
